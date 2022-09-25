@@ -41,7 +41,7 @@
         <div class="hidden bg-white text-base z-50 list-none divide-y divide-gray-100 rounded shadow my-4" id="dropdown">
         <ul class="py-1" aria-labelledby="dropdown">
         <li>
-            <a href="/sign-in" class="text-sm hover:bg-gray-100 text-gray-700 block px-4 py-2">Sign Up</a>
+            <a href="/sign-up" class="text-sm hover:bg-gray-100 text-gray-700 block px-4 py-2">Sign Up</a>
         </li>
         <li>
             <a href="/log-in" class="text-sm hover:bg-gray-100 text-gray-700 block px-4 py-2">Sign In</a>
